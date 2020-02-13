@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "pagerfanta/pagerfanta": "~1.0"
+        "pagerfanta/pagerfanta": "~2.1"
     },
     "suggest": {
       "doctrine/orm": "To use the QueryAdapter."
